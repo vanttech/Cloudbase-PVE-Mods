@@ -2,7 +2,7 @@
 username=localadm
 groups=Administrators
 inject_user_password=true
-first_logon_behavior=no
+first_login_behavior=no
 bsdtar_path=C:\Program Files\Cloudbase Solutions\Cloudbase-Init\bin\bsdtar.exe
 mtools_path=C:\Program Files\Cloudbase Solutions\Cloudbase-Init\bin\
 verbose=true
